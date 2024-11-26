@@ -1,0 +1,18 @@
+/* admin dashboard */
+.room-card-wrapper {
+    padding: 10px;
+    min-height: 200px;
+}
+
+.room-card {
+    height: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.room-card-name {
+    font-size: 20px;
+    font-weight: 600;
+}

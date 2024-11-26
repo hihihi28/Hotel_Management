@@ -1,0 +1,21 @@
+/* login */
+.auth-form-wrapper {
+    padding: 20px 10px;
+    background-color: #f0f2f5;
+    width: 500px;
+}
+
+.btn.login-btn {
+    background-color: #061729;
+    color: white
+}
+
+.btn.login-btn:hover {
+    background-color: #0d3a69;
+    color: white
+}
+
+.err-msg {
+     color: red;
+     padding-left: 0.75rem;
+}
